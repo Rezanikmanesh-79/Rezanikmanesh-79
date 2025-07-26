@@ -11,7 +11,7 @@ A passionate software engineer specializing in **Python** and **Django**, with a
 - 🧱 Database design, query optimization, and data management  
 - 🐳 Containerization using Docker and Docker Compose  
 - ⚙️ Automation and building practical developer tools  
-- 🛠️ Experience with C++ and foundational programming languages  
+- 🛠️ Experience with C/C++ and foundational programming languages  
 
 ---
 

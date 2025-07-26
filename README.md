@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there! I'm Reza Nikmanesh 👋
 
-<!--
-**Rezanikmanesh-79/Rezanikmanesh-79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate software engineer specializing in **Python** and **Django**, with a keen interest in web development, automation, and modern infrastructure like Docker and Docker Compose.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Expertise
+
+- 💻 Web development with Django and Django REST Framework  
+- 🐍 Python programming for scripting, CLI tools, and desktop apps  
+- 🧱 Database design, query optimization, and data management  
+- 🐳 Containerization using Docker and Docker Compose  
+- ⚙️ Automation and building practical developer tools  
+- 🛠️ Experience with C++ and foundational programming languages  
+
+---
+
+## 📚 Projects & Highlights
+
+- Django blog with Jalali calendar support and Persian interface  
+- Todo list APIs built with Django REST Framework  
+- Windows desktop invitation maker app using Tkinter  
+- Bash scripts and automation tools  
+- Educational and practice projects in programming and networking  
+
+---
+
+## 🌱 Always Learning & Growing
+
+Dedicated to mastering new technologies, enhancing coding skills, and sharing knowledge with the developer community.
+
+---
+
+## 📫 How to Reach Me
+
+- GitHub: [@Rezanikmanesh-79](https://github.com/Rezanikmanesh-79)  
+- LinkedIn: (Add if you want)  
+- Email: (Add if you want)
+
+---
+
+## ⚡ Favorite Quote
+
+> "Good code is like poetry: simple, readable, and beautiful."
+
+---
+
+Looking forward to new projects and collaborations!  
+Glad to have you here 👏

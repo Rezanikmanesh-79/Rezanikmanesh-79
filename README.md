@@ -34,7 +34,7 @@ Dedicated to mastering new technologies, enhancing coding skills, and sharing kn
 ## 📫 How to Reach Me
 
 - GitHub: [@Rezanikmanesh-79](https://github.com/Rezanikmanesh-79)  
-- Email: (rezanikmanesh79@gmail.com)
+- Email: rezanikmanesh79@gmail.com
 
 ---
 

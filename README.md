@@ -1,48 +1,59 @@
-# Hi there! I'm Reza Nikmanesh 👋
-
-A passionate software engineer specializing in **Python** and **Django**, with a keen interest in web development, automation, and modern infrastructure like Docker and Docker Compose.
-
----
-
-## 🚀 My Expertise
-
-- 💻 Web development with Django and Django REST Framework  
-- 🐍 Python programming for scripting, CLI tools, and desktop apps  
-- 🧱 Database design, query optimization, and data management  
-- 🐳 Containerization using Docker and Docker Compose  
-- ⚙️ Automation and building practical developer tools  
-- 🛠️ Experience with C/C++ and foundational programming languages  
+<h1 align="center">Hey there 👋, I'm Reza Nikmanesh</h1>
+<p align="center">
+  🎓 Computer Engineering Student | 🧠 Linux & Security Enthusiast | 💻 Pythonic Developer | 📐 Math Lover
+</p>
 
 ---
 
-## 📚 Projects & Highlights
+## 🚀 About Me
 
-- Django blog with Jalali calendar support and Persian interface  
-- Todo list APIs built with Django REST Framework  
-- Windows desktop invitation maker app using Tkinter  
-- Bash scripts and automation tools  
-- Educational and practice projects in programming and networking  
-
----
-
-## 🌱 Always Learning & Growing
-
-Dedicated to mastering new technologies, enhancing coding skills, and sharing knowledge with the developer community.
+- 🎓 Computer Engineering student with a passion for deep understanding and clean code  
+- 🐧 Daily Arch Linux user (yes, I really use Arch btw 😎)  
+- 💻 Developer experienced in **Python**, **Django**, **C++**, **C#**, and **Bash**  
+- 🌐 Background in **Networking (MTCNA)**, **Security (Security+)**, and **Linux systems (LPIC-1)**  
+- 📘 Currently studying advanced math and computer science fundamentals  
+- 🧠 I believe in mastering the core before diving into frameworks
 
 ---
 
-## 📫 How to Reach Me
+## 🛠️ Tech Stack
 
-- GitHub: [@Rezanikmanesh-79](https://github.com/Rezanikmanesh-79)  
-- Email: rezanikmanesh79@gmail.com
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
 
-## ⚡ Favorite Quote
+## 📈 GitHub Stats
 
-> "Good code is like poetry: simple, readable, and beautiful."
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rezanikmanesh-79&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rezanikmanesh-79&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
-Looking forward to new projects and collaborations!  
-Glad to have you here 👏
+## 🎯 Goals
+
+- 🔐 Build useful tools for security & networking  
+- 📚 Document my learning and share knowledge with the community  
+- 💡 Contribute to open-source Linux-based or CLI-first projects  
+- 🧮 Dive deeper into mathematics for theoretical computer science  
+
+---
+
+## 📬 Contact Me
+
+- 📫 Email: **Reza.nikmanesh.79[at]gmail.com**
+- 💭 More platforms and blog: coming soon...
+
+---
+
+> “Learning never exhausts the mind — it energizes it. And coding gives it form.”
+

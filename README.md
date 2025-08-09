@@ -50,7 +50,7 @@
 
 ## 📬 Contact Me
 
-- 📫 Email: **Reza.nikmanesh.79@gmail.com**
+- 📫 Email: **Rezanikmanesh79@gmail.com**
 ---
 
 > “Learning never exhausts the mind — it energizes it. And coding gives it form.”

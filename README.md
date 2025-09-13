@@ -9,7 +9,7 @@
 
 - 🎓 Computer Engineering student with a passion for deep understanding and clean code  
 - 🐧 Daily Arch Linux user (yes, I really use Arch btw 😎)  
-- 💻 Developer experienced in **Python**, **Django**, **C++**, **C#**, and **Bash**  
+- 💻 Developer experienced in **Python**, **Django**, **C++**, **C**, and **Bash**  
 - 🌐 Background in **Networking (MTCNA)**, **Security (Security+)**, and **Linux systems (LPIC-1)**  
 - 📘 Currently studying advanced math and computer science fundamentals  
 - 🧠 I believe in mastering the core before diving into frameworks

@@ -10,7 +10,7 @@
 * 🎓 Computer Engineering student dedicated to deep technical understanding
 * 🐧 Daily Arch Linux user
 * 💻 Developer experienced in **Python**, **Django**, **C++**, **C**, and **Bash**
-* 🌐 Background in **Networking (MTCNA)**, **Security (Security+)**, and **Linux systems (LPIC-1)**
+* 🌐 Background in **Networking (MTCNA)**, **Security (Security+ )**, and **Linux systems (LPIC-1 )**
 * 📘 Currently studying advanced math and computer science fundamentals
 * 🧠 I believe in mastering core concepts before diving into frameworks
 
@@ -33,8 +33,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rezanikmanesh-79&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Rezanikmanesh-79&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---

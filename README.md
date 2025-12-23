@@ -1,58 +1,66 @@
 <h1 align="center">Reza Nikmanesh</h1>
+
 <h3 align="center">
-Computer Engineering Student · Linux & Security Enthusiast · Backend Developer
+Computer Engineering Student · Systems & Backend Engineer · Linux & Security
 </h3>
 
 <p align="center">
-Strong fundamentals · Systems thinking · Security-oriented development
+Fundamentals-first · Systems thinking · Security-aware design
 </p>
 
 ---
 
-## About Me
+## Overview
 
-I am a **Computer Engineering student** focused on building a deep understanding of **computer science fundamentals**, **Linux systems**, and **security-aware software design**.  
-I prioritize correctness, clarity, and long-term maintainability over short-term convenience.
+I’m a **Computer Engineering student** focused on building a strong and practical understanding of  
+**computer science fundamentals**, **Linux-based systems**, and **security-oriented backend development**.
 
-- Daily **Arch Linux** user with strong CLI proficiency  
-- Backend developer with emphasis on **Python** and **Django**
-- Experience in **C / C++** for low-level and systems programming
-- Background in **Networking (MTCNA)**, **Security (Security+)**, and **Linux administration (LPIC-1)**
-- Strong interest in **mathematics**, **algorithms**, and **theoretical computer science**
-- Believe in mastering core concepts before scaling with frameworks
+I deliberately prioritize **correctness, clarity, and maintainability** over rapid or trend-driven solutions.  
+My long-term goal is to design systems that are *predictable, debuggable, and secure by design*.
 
 ---
 
-## Technical Skills
+## Core Interests
 
-### Programming Languages
-- Python
-- C
-- C++
-- Bash
+- Backend and systems engineering
+- Linux internals and administration
+- Networking and security engineering
+- Mathematics and theoretical CS foundations
+- Clean architecture and long-term software quality
 
-### Frameworks & Tools
-- Django
-- Git & GitHub
+---
+
+## Technical Profile
+
+### Programming
+- **Python** — backend development, automation
+- **C / C++** — systems-level concepts, memory & performance awareness
+- **Bash** — scripting and CLI automation
+- **C#** — general-purpose development
+
+### Backend & Data
+- Django (architecture-focused usage)
+- RESTful APIs
 - PostgreSQL
-- Linux toolchain
+- Authentication & authorization mechanisms
 
-### Systems & Security
-- Linux system administration
-- Networking fundamentals
-- Firewall and access control concepts
-- CLI-first tooling and automation
+### Systems, Networking & Security
+- Daily **Arch Linux** user (CLI-first workflow)
+- Linux system administration (**LPIC-1**)
+- Networking fundamentals (**MTCNA**, CCNA-level concepts)
+- Security foundations (**Security+**, CEH track)
+- Firewalling, access control, and system hardening concepts
 
 ---
 
-## Tech Stack
+## Tooling & Stack
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -60,47 +68,31 @@ I prioritize correctness, clarity, and long-term maintainability over short-term
 
 ---
 
-## GitHub Activity & Metrics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rezanikmanesh-79&show_icons=true&hide_title=true&theme=radical"
-    alt="GitHub activity statistics"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Rezanikmanesh-79&theme=radical&hide_border=true"
-    alt="GitHub contribution streak"
-  />
-</p>
-
----
-
 ## Current Focus
 
-- Designing **security-oriented backend tools**
-- Building **Django-based systems** with clean architecture
-- Strengthening knowledge of **operating systems**, **networking**, and **compilers**
-- Studying **mathematics** for advanced computer science topics
-- Contributing to **Linux-centric and CLI-first open-source projects**
+- Designing **security-aware backend systems** with Django
+- Strengthening understanding of:
+  - Operating systems
+  - Networking & security engineering
+  - Low-level and systems concepts
+- Building **Linux-centric, CLI-first tools**
+- Translating theory into practical, production-minded code
 
 ---
 
-## Goals
+## Direction
 
-- Develop reliable tools for **networking and security**
-- Document learning and share technical knowledge
-- Contribute meaningfully to **open-source infrastructure projects**
-- Grow toward **systems and backend engineering excellence**
+- Grow into a **backend & systems engineer**
+- Build practical tooling for **networking and security**
+- Contribute to **infrastructure-level open-source projects**
+- Maintain a strong balance between **theory and implementation**
 
 ---
 
 ## Contact
 
-- Email: **Rezanikmanesh79@gmail.com**
+- 📧 **Rezanikmanesh79@gmail.com**
 
 ---
 
-> *Strong systems are built on strong fundamentals.*
+> *Good systems are built by engineers who respect fundamentals.*

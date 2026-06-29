@@ -1,98 +1,165 @@
 <h1 align="center">Reza Nikmanesh</h1>
 
 <h3 align="center">
-Computer Engineering Student · Systems & Backend Engineer · Linux & Security
+Backend Engineer • Systems Engineer • Linux & Security Enthusiast
 </h3>
 
 <p align="center">
-Fundamentals-first · Systems thinking · Security-aware design
+Python • Django • Linux • Networking • Cybersecurity
 </p>
 
 ---
 
-## Overview
+## About Me
 
-I’m a **Computer Engineering student** focused on building a strong and practical understanding of  
-**computer science fundamentals**, **Linux-based systems**, and **security-oriented backend development**.
+I'm a **Computer Engineering graduate** passionate about backend engineering, Linux systems, networking, and cybersecurity.
 
-I deliberately prioritize **correctness, clarity, and maintainability** over rapid or trend-driven solutions.  
-My long-term goal is to design systems that are *predictable, debuggable, and secure by design*.
+My primary interests lie in building reliable backend applications, understanding operating systems and computer networks, and designing infrastructure with security in mind. I enjoy learning how systems work internally and applying that knowledge to create maintainable and practical software.
 
 ---
 
-## Core Interests
+## Areas of Interest
 
-- Backend and systems engineering
-- Linux internals and administration
-- Networking and security engineering
-- Mathematics and theoretical CS foundations
-- Clean architecture and long-term software quality
+- Backend Engineering
+- Linux System Administration
+- Network Engineering
+- Cybersecurity
+- Infrastructure & Automation
+- Software Architecture
+- Computer Science Fundamentals
 
 ---
 
-## Technical Profile
+## Programming Languages
 
-### Programming
-- **Python** — backend development, automation
-- **C / C++** — systems-level concepts, memory & performance awareness
-- **Bash** — scripting and CLI automation
-- **C#** — general-purpose development
+- **Python**
+- **C#**
+- **C++**
+- **C**
+- **Bash**
 
-### Backend & Data
-- Django (architecture-focused usage)
-- RESTful APIs
+---
+
+## Backend Development
+
+- Django
+- Django REST Framework
+- RESTful API Design
+- Authentication & Authorization
 - PostgreSQL
-- Authentication & authorization mechanisms
-
-### Systems, Networking & Security
-- Daily **Arch Linux** user (CLI-first workflow)
-- Linux system administration (**LPIC-1**)
-- Networking fundamentals (**MTCNA**, CCNA-level concepts)
-- Security foundations (**Security+**, CEH track)
-- Firewalling, access control, and system hardening concepts
+- SQLite
 
 ---
 
-## Tooling & Stack
+## Linux & Systems
+
+- Daily **Arch Linux** user
+- LPIC-1
+- Shell Scripting
+- CLI-first Workflow
+- System Administration
+- Process & Service Management
+- Filesystem Management
+
+---
+
+## Networking
+
+- CCNA
+- CCNP Security
+- MTCNA
+- TCP/IP
+- Routing & Switching
+- VLAN
+- NAT
+- DNS
+- DHCP
+- VPN Technologies
+
+---
+
+## Cybersecurity
+
+- CEH
+- PWK
+- Security+
+- ISMS
+- FortiGate Administration
+- Firewall Configuration
+- Network Hardening
+- Access Control
+- Vulnerability Assessment
+
+---
+
+## Tools & Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
+
 </p>
+
+---
+
+## Certifications
+
+- CCNP Security
+- CCNA
+- LPIC-1
+- MTCNA
+- Security+
+- CEH
+- PWK
+- ISMS
+- MCSA
 
 ---
 
 ## Current Focus
 
-- Designing **security-aware backend systems** with Django
-- Strengthening understanding of:
-  - Operating systems
-  - Networking & security engineering
-  - Low-level and systems concepts
-- Building **Linux-centric, CLI-first tools**
-- Translating theory into practical, production-minded code
+- Building secure backend applications with Django
+- Linux systems and administration
+- Network security and infrastructure
+- Infrastructure automation
+- Open-source projects
+- Strengthening computer science fundamentals
 
 ---
 
-## Direction
+## Philosophy
 
-- Grow into a **backend & systems engineer**
-- Build practical tooling for **networking and security**
-- Contribute to **infrastructure-level open-source projects**
-- Maintain a strong balance between **theory and implementation**
+- Fundamentals over shortcuts
+- Security by design
+- Simplicity over complexity
+- Write maintainable software
+- Never stop learning
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RezaNikmanesh&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RezaNikmanesh&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
 ---
 
 ## Contact
 
-- 📧 **Rezanikmanesh79@gmail.com**
+📧 **Rezanikmanesh79@gmail.com**
 
 ---
 
-> *Good systems are built by engineers who respect fundamentals.*
+> *"Strong engineering starts with strong fundamentals."*
